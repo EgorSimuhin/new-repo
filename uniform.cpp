@@ -10,6 +10,6 @@ int main() {
         }
     }
     cout << "НОД - " << nod;
-    cout << endl << "Это Инженерка"; 
+    cout << endl << "Это Инженерка !!!"; 
     return 0;
 }
